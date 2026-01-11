@@ -70,19 +70,14 @@
   position: relative;
 }
 
-.image-placeholder {
+.about-photo {
   width: 100%;
   aspect-ratio: 1;
-  background: var(--bg-tertiary);
+  object-fit: cover;
   border-radius: var(--radius-md);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--text-muted);
-  font-family: var(--font-heading);
-  font-size: 0.9rem;
   position: relative;
   z-index: 1;
+  display: block;
 }
 
 .image-border {

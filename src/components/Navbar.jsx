@@ -58,7 +58,7 @@ function Navbar() {
           ))}
           <li>
             <a 
-              href="/resume.pdf" 
+              href="/Ethan Cheng Resume.pdf" 
               target="_blank" 
               rel="noopener noreferrer"
               className="navbar-resume"

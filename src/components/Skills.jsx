@@ -4,19 +4,19 @@ import './Skills.css'
 const skillCategories = [
   {
     title: 'Languages',
-    skills: ['Python', 'C/C++', 'Rust', 'JavaScript', 'Go', 'SQL'],
+    skills: ['JavaScript', 'C', 'C++', 'Python', 'SQL', 'Java', 'Assembly'],
   },
   {
-    title: 'ML / AI',
-    skills: ['PyTorch', 'TensorFlow', 'JAX', 'Scikit-learn', 'Hugging Face', 'CUDA'],
+    title: 'ML / Data Science',
+    skills: ['PyTorch', 'Pandas', 'Matplotlib', 'Scikit-learn', 'NumPy'],
   },
   {
-    title: 'Security',
-    skills: ['Cryptography', 'Fuzzing', 'Reverse Engineering', 'Binary Analysis', 'Secure Systems'],
+    title: 'Web & Mobile',
+    skills: ['React Native', 'Flask', 'Node.js', 'TypeScript', 'Expo'],
   },
   {
     title: 'Tools & Infrastructure',
-    skills: ['Git', 'Docker', 'Linux', 'AWS', 'Kubernetes', 'CI/CD'],
+    skills: ['Docker', 'Git', 'Wireshark', 'Nmap', 'Linux'],
   },
 ]
 
