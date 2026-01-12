@@ -1,0 +1,31 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Head (circle) -->
+  <circle cx="50" cy="50" r="40" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/>
+  
+  <!-- Left ear -->
+  <circle cx="25" cy="25" r="12" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/>
+  <circle cx="25" cy="25" r="8" fill="#f5f5f5"/>
+  
+  <!-- Right ear -->
+  <circle cx="75" cy="25" r="12" fill="#ffffff" stroke="#e0e0e0" stroke-width="1"/>
+  <circle cx="75" cy="25" r="8" fill="#f5f5f5"/>
+  
+  <!-- Left eye -->
+  <ellipse cx="38" cy="45" rx="5" ry="7" fill="#333333"/>
+  <circle cx="38" cy="43" r="2" fill="#ffffff"/>
+  
+  <!-- Right eye -->
+  <ellipse cx="62" cy="45" rx="5" ry="7" fill="#333333"/>
+  <circle cx="62" cy="43" r="2" fill="#ffffff"/>
+  
+  <!-- Nose (triangle) -->
+  <path d="M 50 55 L 45 62 L 55 62 Z" fill="#333333"/>
+  
+  <!-- Mouth -->
+  <path d="M 50 62 Q 42 68 35 65" stroke="#333333" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M 50 62 Q 58 68 65 65" stroke="#333333" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Cheek highlights -->
+  <ellipse cx="28" cy="58" rx="6" ry="4" fill="#f0f0f0" opacity="0.6"/>
+  <ellipse cx="72" cy="58" rx="6" ry="4" fill="#f0f0f0" opacity="0.6"/>
+</svg>
