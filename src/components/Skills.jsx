@@ -49,7 +49,7 @@ function Skills() {
           viewport={{ once: true, margin: '-100px' }}
           transition={{ duration: 0.5 }}
         >
-          <h2 className="section-title">Skills & Technologies</h2>
+          <h2 className="section-title">Skills</h2>
         </motion.div>
 
         <motion.div 

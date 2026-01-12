@@ -48,11 +48,6 @@
   transition: all var(--transition-fast);
 }
 
-.skill-pill:hover {
-  color: var(--accent);
-  border-color: var(--accent);
-  background: var(--accent-glow);
-}
 
 @media (max-width: 768px) {
   .skills-grid {
