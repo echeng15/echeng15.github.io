@@ -57,14 +57,9 @@ function Navbar() {
             </li>
           ))}
           <li>
-            <a 
-              href="/Ethan Cheng Resume.pdf" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="navbar-resume"
-            >
+            <button type="button" className="navbar-resume">
               Resume
-            </a>
+            </button>
           </li>
         </ul>
       </div>

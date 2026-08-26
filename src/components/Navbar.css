@@ -81,6 +81,8 @@
   padding: var(--space-xs) var(--space-sm);
   border: 1px solid var(--accent);
   border-radius: var(--radius-sm);
+  background: none;
+  cursor: pointer;
   transition: all var(--transition-fast);
 }
 
